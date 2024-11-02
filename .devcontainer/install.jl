@@ -2,6 +2,7 @@ import Pkg
 
 packages = [
     "BenchmarkTools"
+    "FFTW"
     "IJulia"
     "JuliaFormatter"
     "PhysicalConstants"
