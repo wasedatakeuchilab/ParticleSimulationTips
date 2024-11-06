@@ -4,6 +4,7 @@ packages = [
     "BenchmarkTools"
     "FFTW"
     "IJulia"
+    "Interpolations"
     "JuliaFormatter"
     "PhysicalConstants"
     "Plots"
